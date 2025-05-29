@@ -1,4 +1,4 @@
-# 📧 Text-Mail-Classification-NLP
+# 📧 Text-Mail-Classification-NLP (en cours)
 
 Ce projet vise à classifier des e-mails en différentes catégories à l'aide de techniques de **traitement automatique du langage naturel (NLP)**. 
 Il s'appuie sur un jeu de données provenant de Kaggle, contenant des e-mails réels annotés par sujet, pour entraîner un modèle de classification de texte.
