@@ -19,7 +19,7 @@ Cela permettrait d'automatiser l'organisation des e-mails et d'améliorer l'effi
 
 - **Nom** : [Topic Modelling on Emails](https://www.kaggle.com/datasets/dipankarsrirag/topic-modelling-on-emails)
 - **Source** : Kaggle (créé par Dipankar Srirag)
-- **Description** : Ce dataset contient des e-mails classifiés selon leur sujet en dossier de catégories
+- **Description** : Ce dataset contient des e-mails classifiés selon leur sujet en dossier 
 
 
 
